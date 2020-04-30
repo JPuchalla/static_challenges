@@ -1,0 +1,52 @@
+.header1 {
+  background-color: darkred;
+  color: white;
+  font-weight: bold;
+  display: flex;
+  justify-content: space-between;
+  padding: 1em;
+
+}
+
+.header1 h1{
+  font-size: 20px;
+}
+
+.header1 p{
+  text-decoration: underline;
+  font-size: 17px;
+}
+
+.header2 {
+  background-color: #585858;
+  padding: .5em;
+  display: flex;
+  justify-content: flex-end;
+  font-weight: bold;
+}
+
+.header2 a {
+  color: white;
+  padding: .3em;
+}
+
+.main img {
+  width: 650px;
+  height: 400px;
+  padding-left: 20px;
+  padding-top: 20px;
+}
+
+.text h1{
+  font-size: 1.1em;
+  font-weight: bold;
+  padding-left: 20px;
+  padding-top: 20px;
+
+}
+
+.text p{
+  padding-left: 20px;
+  padding-top: 10px;
+
+}
